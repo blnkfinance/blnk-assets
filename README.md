@@ -1,3 +1,5 @@
+![Blnk logo](https://res.cloudinary.com/dmxizylxw/image/upload/v1719884842/blnk-github-logo_twgk1x.png)
+
 ## About asset classes
 
 Asset class is used in Blnk to define the currencies of your ledger balances and your transactions. This could mean fiat currencies like the Euro, Dollar, Pound, etc, cryptocurrencies like Bitcoin, Ethereum, etc, or custom asset classes like loyalty points for closed loop systems. 
