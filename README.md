@@ -12,9 +12,7 @@ Precision is a parameter in Blnk that converts your amount to the lowest unit po
 
 You can represent the amounts as you wish in your application, however it is crucial to use precision to accurately store fractional amounts in your ledger, avoiding inaccuracy due to floating-point approximations.
 
->The precision value applied in a transaction depends on the asset class of the transaction.
->
->In this repository, you'll find a list of most fiat currencies, and their recommended precision value.
+>The precision value applied in a transaction depends on the asset class of the transaction. In this repository, you'll find a list of most fiat currencies, and their recommended precision value.
 
 ## How to determine a precision value
 
