@@ -322,7 +322,7 @@
     {
         "name": "Japanese Yen",
         "currency": "JPY",
-        "precision": 100
+        "precision": 1
     },
     {
         "name": "Jordanian Dinar",
