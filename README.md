@@ -2,7 +2,7 @@
 
 ## About Blnk
 
-[Blnk Ledger](https://github.com/blnkledger/blnk) is an open-source fintech database for building fintech products to standard and at scale. You can [learn more here](https://blnkfinance.com). We designed Blnk to help developers do three things well:
+[Blnk Ledger](https://github.com/blnkfinance/blnk) is an open-source fintech database for building fintech products to standard and at scale. You can [learn more here](https://blnkfinance.com). We designed Blnk to help developers do three things well:
 
 1. Accurately record transactions in their system.
 2. Correctly manage complex flow of funds and transaction data.
@@ -12,7 +12,7 @@
 
 Asset class is used in Blnk to define the currencies of your ledger balances and your transactions. This could mean fiat currencies like the Euro, Dollar, Pound, etc, cryptocurrencies like Bitcoin, Ethereum, etc, or custom asset classes like loyalty points for closed loop systems. 
 
-In the [Blnk Ledger](https://github.com/blnkledger/blnk), the asset class is represented with the `currency` field in its respective endpoints.
+In the [Blnk Ledger](https://github.com/blnkfinance/blnk), the asset class is represented with the `currency` field in its respective endpoints.
 
 ## Understanding Precision
 
